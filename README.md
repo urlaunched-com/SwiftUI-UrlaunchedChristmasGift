@@ -14,6 +14,18 @@ Developed by [Alex Kryvodub](https://www.linkedin.com/in/oleksandrkryvodub/) as 
 ## ChristmasGift demo. <br>
 https://user-images.githubusercontent.com/1841811/149169622-92f0dc6c-834a-4af1-a8e0-6a50930a94c4.mp4
 
+## Our resources
+[Official website](https://www.urlaunched.com)<br>
+[Our company timeline](https://www.urlaunched.com/timeline)<br>
+[You are launched expertise](https://www.urlaunched.com/expertise)<br>
+[You are launched iOS expertise](https://www.urlaunched.com/expertise/mvp/ios)<br>
+[You are launched Android expertise](https://www.urlaunched.com/expertise/mvp/android)<br>
+[You are launched design expertise](https://www.urlaunched.com/expertise/design)<br>
+[You are launched web expertise](https://www.urlaunched.com/expertise/web)<br>
+[You are launched Lean Startup expertise](https://www.urlaunched.com/expertise/idea)<br>
+[You are launched successful startups](https://www.urlaunched.com/launched)<br>
+[Official blog](https://blog.urlaunched.com/)
+
 ## License
 
 	The MIT License (MIT)
